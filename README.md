@@ -3,7 +3,7 @@ Boonea project - a repository for a research paper by N. Cannarozzi and M. Kowal
 
 # Description
 
-All files pertain to unpublish manuscript currently in revision for PLOS ONE. Cannarozzi, N.R. and Kowalewski M. (in revision) Seasonal oyster harvesting recorded in a Late Archaic Period shell ring. PLOS ONE.
+All files pertain to an unpublished manuscript currently in revision for PLOS ONE. Cannarozzi, N.R. and Kowalewski M. (in revision) Seasonal oyster harvesting recorded in a Late Archaic Period shell ring. PLOS ONE.
 
 This repository includes the following:
 
@@ -14,10 +14,10 @@ This repository includes the following:
 
 Downloading all csv files and R script should allow for replicating figures and results reported in the manuscript.
 
-Last updated: September 24, 2019
-
-The information regarding scripts and data will be provided once the manuscript is published.
+Addition information regarding scripts and data will become available once the manuscript is published.
 
 # Questions/Comments
 
 Contact Michal Kowalewski at kowalewski@ufl.edu.
+
+Last updated: September 24, 2019
