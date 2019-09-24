@@ -1,0 +1,4 @@
+"","sample","highest similarity","duration","start month","month set","similarity index","dataset"
+"1",1,0.930933915740807,7,11,83,"Bray-Curtis","trimmed"
+"2",2,0.717891394827613,8,10,94,"Bray-Curtis","trimmed"
+"3",3,0.634322519455244,5,1,49,"Bray-Curtis","trimmed"

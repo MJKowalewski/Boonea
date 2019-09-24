@@ -1,0 +1,5 @@
+"","sample","highest similarity","duration","start month","month set","similarity index","dataset"
+"1",1,0.931034482758621,7,11,83,"Jaccard","trimmed"
+"2",2,0.730769230769231,4,11,47,"Jaccard","trimmed"
+"3",3,0.92,5,1,49,"Jaccard","trimmed"
+"4",3,0.92,6,1,61,"Jaccard","trimmed"
