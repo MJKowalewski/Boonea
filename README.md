@@ -10,7 +10,8 @@ This repository includes the following:
 1. The files with raw datasets with shell measurements for the gastropod Boonea (csv format)
 2. Simulation outputs (csv format)
 3. An annotated R script that generates figures and statistical tables reported in the manuscript
-4. Museum lot numbers for modern and archaeological specimens used in this study (csv format) (not needed to run R script).
+4. Additional R script with custom functions called by the primary R script
+5. Museum lot numbers for modern and archaeological specimens used in this study (csv format) (not needed to run R script).
 
 Downloading all csv files and R script should allow for replicating figures and results reported in the manuscript.
 
